@@ -1,0 +1,2 @@
+rootProject.name = "Get_Resources_API"
+include ':app'
